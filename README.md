@@ -1,7 +1,7 @@
 ## Hi, i'm Fabrizio 👋👨‍💻!
 `[learning process...]`
 
-```js
+```javascript
 const Fabriu = {
   
   pronouns: "he" | "him",
