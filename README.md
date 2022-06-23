@@ -1,6 +1,6 @@
-## Hi, i'm Fabrizio 👋 !
+## Hi, i'm Fabrizio 👋👨‍💻!
 
-```javascript
+```js
 const thai = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
