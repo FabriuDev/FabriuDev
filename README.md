@@ -1,4 +1,4 @@
-## Hi, i'm Fabrizio Rodriguez !
+## Hi, i'm Fabrizio 👋 !
 
 ```javascript
 const thai = {
