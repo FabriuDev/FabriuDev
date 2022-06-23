@@ -2,10 +2,10 @@
 `[learning process...]`
 
 ```javascript
-const Fabriu = {
+const fabriu = {
   
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS]
-  tools: [React, Node],
+  tools: [...]
 }
 ```
