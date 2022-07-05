@@ -6,6 +6,6 @@ const fabriu = {
   
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS]
-  tools: [...]
+  Tools: [...]
 }
 ```
