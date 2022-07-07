@@ -2,7 +2,7 @@
 `[learning process...]`
 
 ```javascript
-const fabriuDev = {
+const FabriuDev = {
   
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS]
