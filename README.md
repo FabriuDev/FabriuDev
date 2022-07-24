@@ -1,6 +1,6 @@
 ## Hi, i'm Fabrizio 👋👨‍💻!
 `[learning process...]`
-
+gg ez
 ```javascript
 const FabriuDev = {
   
