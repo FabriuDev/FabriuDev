@@ -1,5 +1,5 @@
 ## Hi, i'm Fabrizio 👋👨‍💻!
-`[learning process...]` nnashe
+`[learning process...]`
 
 ```javascript
 const FabriuDev = {
