@@ -1,4 +1,4 @@
-## Hi, i'm Fabrizio 👋👨‍💻! xd
+## Hi, i'm Fabrizio 👋👨‍💻!
 `[learning process...]`
 
 ```javascript
