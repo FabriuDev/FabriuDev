@@ -6,6 +6,6 @@ const FabriuDev = {
   
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS]
-  Tools: [...]
+  Tools: [in process...]
 }
 ```
