@@ -1,4 +1,4 @@
-# 💫 About Me: 
+# 💫 About Me:
 🔭 Hello! I introduce myself, I am Fabrizio Rodriguez, I am 18 years old. I'live in buenos aires, argentina.<br><br>📚 I am currently studying self-taught and constantly at OpenBootCamp, specialized in the field of Full-Stack Development.
 
 
