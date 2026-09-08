@@ -6,11 +6,11 @@ Currently working on **GOD Agency**, alongside independent web, automation and c
 
 ## Selected work
 
-- **GOD Agency** — web development, automation and digital systems.
-- **FTravel** — travel website / client project.
-- **Renovra** — website for renovation and construction services.
-- **Pausa Coffee** — website for event coffee services.
-- **Andres Racing Performance** — motorsport performance website.
+- **GOD Agency** — web development, automation and digital systems — [godagency.ar](https://godagency.ar)
+- **FTravel** — travel website / client project — [ftravel.uy](https://ftravel.uy)
+- **Renovra** — website for renovation and construction services — [renovra.site](https://renovra.site)
+- **Pausa Coffee** — website for event coffee services — [pausaeventos.site](https://pausaeventos.site)
+- **Andres Racing Performance** — motorsport performance website — [repository](https://github.com/FabriuDev/andres-racing-performance)
 
 ## What I work with
 
