@@ -4,15 +4,15 @@
 
 ### Self-Taught Developer · Automation · AI Systems · Digital Products
 
-Building software, systems and digital businesses since 2021.
+Building software, systems and digital products since 2021.
 
 </div>
 
 ## About
 
-I'm a **self-taught developer and freelancer** focused on building useful things — for clients, agencies, my own businesses, and sometimes simply to explore an idea.
+I'm a **self-taught developer and freelancer** focused on building useful things — for clients, agencies, projects I help grow, and sometimes simply because I want to explore an idea.
 
-My main operation today is a **portfolio of YouTube channels** supported by automation, internal tools and content systems I've built and refined over time. Alongside that, I develop websites, digital products and systems for clients and agency projects.
+My main operation today is a **portfolio of YouTube channels** supported by automation, internal tools and content systems I've built and refined over time. Alongside that, I work independently with clients and as a **partner at GOD Agency and Zenbriq**, contributing across web development, automation, AI systems and digital products.
 
 I use **AI as an accelerator**, combined with documentation, experimentation and constant iteration. I care more about understanding the problem and making something work in the real world than following a fixed path into tech.
 
@@ -30,11 +30,11 @@ I use **AI as an accelerator**, combined with documentation, experimentation and
 - **PAUSA Coffee** — digital presence and quotation flow for event services — [pausaeventos.site](https://pausaeventos.site)
 - **Andrés Racing Performance** — motorsport performance website — [repository](https://github.com/FabriuDev/andres-racing-performance)
 
-## Independent ventures
+## Agency partnerships
 
 **GOD Agency** · **Zenbriq**
 
-Web development, automation, AI systems, digital products and infrastructure across client work and internal projects.
+I work as a **partner across both**, helping build and operate web products, automation, AI systems and digital infrastructure for client and internal projects.
 
 [godagency.ar](https://godagency.ar) · [zenbriq.com](https://zenbriq.com)
 
@@ -42,4 +42,4 @@ Web development, automation, AI systems, digital products and infrastructure acr
 
 `TypeScript` · `JavaScript` · `React` · `Next.js` · `Node.js` · `REST APIs` · `Git` · `Vercel`
 
-<sub>Some repositories in this account are client work, others are personal products, prototypes, experiments or older learning projects.</sub>
+<sub>Some repositories in this account are client work; others are personal products, prototypes, experiments or older learning projects.</sub>
