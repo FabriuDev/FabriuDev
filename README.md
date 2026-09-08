@@ -30,10 +30,13 @@ I use **AI as an accelerator**, combined with documentation, experimentation and
 - **PAUSA Coffee** — digital presence and quotation flow for event services — [pausaeventos.site](https://pausaeventos.site)
 - **Andrés Racing Performance** — motorsport performance website — [repository](https://github.com/FabriuDev/andres-racing-performance)
 
-## GOD Agency
+## Independent ventures
 
-Web development, automation, AI content systems and digital infrastructure.  
-[godagency.ar](https://godagency.ar)
+**GOD Agency** · **Zenbriq**
+
+Web development, automation, AI systems, digital products and infrastructure across client work and internal projects.
+
+[godagency.ar](https://godagency.ar) · [zenbriq.com](https://zenbriq.com)
 
 ## Stack
 
