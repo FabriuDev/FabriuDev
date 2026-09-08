@@ -2,73 +2,26 @@
 
 # Fabrizio Rodriguez
 
-### Digital Products · Web Development · AI Systems
+### Web Development · AI Systems · Digital Products
 
-I design and build digital experiences with a practical business focus — from conversion-oriented websites to internal tools, automation and AI-assisted workflows.
+I build production websites, internal tools and automation for businesses, clients and my own ventures.
 
 </div>
 
----
+## Selected work
 
-## Current focus
+- **FTravel** — travel platform and conversion-focused website — [ftravel.uy](https://ftravel.uy)
+- **Renovra** — website for renovation and construction services — [renovra.site](https://renovra.site)
+- **PAUSA Coffee** — digital presence and quotation flow for event services — [pausaeventos.site](https://pausaeventos.site)
+- **Andrés Racing Performance** — motorsport performance website — [repository](https://github.com/FabriuDev/andres-racing-performance)
 
-Building **GOD Agency** and developing digital products, client platforms and internal systems across web, automation and AI.
+## Venture
 
-My work is intentionally separated by context: **commercial/client work**, **personal ventures**, **internal tools**, and **R&D / experiments**. Not every repository in this account is intended to be portfolio work.
-
-## Commercial & client work
-
-| Project | Scope | Live |
-| --- | --- | --- |
-| **FTravel** | Travel website, conversion flows and customer acquisition experience | [ftravel.uy](https://ftravel.uy) |
-| **Renovra** | Website for renovation and construction services | [renovra.site](https://renovra.site) |
-| **PAUSA Coffee** | Digital presence and quotation flow for coffee and event services | [pausaeventos.site](https://pausaeventos.site) |
-| **Andrés Racing Performance** | Motorsport performance website and digital experience | [Repository](https://github.com/FabriuDev/andres-racing-performance) |
-
-## Ventures & personal products
-
-### GOD Agency
-Digital agency focused on **web development, AI-assisted content, automation and digital systems**.
-
+**GOD Agency** — web development, automation, AI content systems and digital infrastructure.  
 [godagency.ar](https://godagency.ar)
 
-### Internal products & systems
-I also build private tools for my own workflows, including:
+## Stack
 
-- YouTube content and production systems
-- AI-assisted research and niche analysis
-- workflow automation
-- internal utilities for content operations and digital projects
+`TypeScript` · `JavaScript` · `React` · `Next.js` · `Node.js` · `REST APIs` · `Git` · `Vercel`
 
-These repositories are generally private because they are operational products rather than public portfolio pieces.
-
-## Lab, prototypes & archive
-
-This GitHub also contains older repositories created for:
-
-- landing-page format tests
-- UI / UX experiments
-- technical prototypes
-- JavaScript and frontend practice
-- early learning projects
-
-They are intentionally kept as part of my development history, but **they do not represent the standard or scope of my current production work**.
-
-## Core stack
-
-`JavaScript` · `TypeScript` · `React` · `Next.js` · `Node.js` · `REST APIs` · `Git` · `Vercel` · `AI workflows`
-
-## Working principles
-
-- Build for real use cases, not only demos.
-- Keep active projects portable and reproducible across machines.
-- Separate production work from internal tools and experiments.
-- Keep repositories useful enough to continue, maintain or hand off later.
-
----
-
-<div align="center">
-
-**Web · Automation · AI · Digital Products**
-
-</div>
+<sub>This account also contains older experiments, landing-page tests and learning repositories. They are kept as archive and are not part of my current portfolio.</sub>
