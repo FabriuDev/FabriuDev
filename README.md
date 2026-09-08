@@ -2,11 +2,26 @@
 
 # Fabrizio Rodriguez
 
-### Web Development · AI Systems · Digital Products
+### Self-Taught Developer · Automation · AI Systems · Digital Products
 
-I build production websites, internal tools and automation for businesses, clients and my own ventures.
+Building, learning and shipping since 2021.
 
 </div>
+
+## About
+
+I'm a **self-taught developer and freelancer** with a strong interest in technology, software and digital systems. I started learning development in 2021 and have kept building ever since — for clients, agencies, my own projects, and sometimes simply because I want to see if an idea can work.
+
+I use **AI as an accelerator**, not as a replacement for understanding. Most of my work comes from combining documentation, experimentation, testing and software I build myself to solve real problems and shorten repetitive processes.
+
+Today I work independently with clients and across several agency projects. My main operating focus, however, is a **portfolio of YouTube channels** that I manage through automation systems, internal tools and content workflows I have built and refined over time.
+
+## What I build
+
+- Production websites and conversion-focused digital experiences
+- Internal tools and workflow automation
+- AI-assisted research and content systems
+- Software for operating and scaling digital projects
 
 ## Selected work
 
@@ -14,6 +29,8 @@ I build production websites, internal tools and automation for businesses, clien
 - **Renovra** — website for renovation and construction services — [renovra.site](https://renovra.site)
 - **PAUSA Coffee** — digital presence and quotation flow for event services — [pausaeventos.site](https://pausaeventos.site)
 - **Andrés Racing Performance** — motorsport performance website — [repository](https://github.com/FabriuDev/andres-racing-performance)
+
+Some projects here are **paid client work**. Others are independent products, prototypes or things I built simply because I wanted to explore an idea.
 
 ## Venture
 
@@ -24,4 +41,4 @@ I build production websites, internal tools and automation for businesses, clien
 
 `TypeScript` · `JavaScript` · `React` · `Next.js` · `Node.js` · `REST APIs` · `Git` · `Vercel`
 
-<sub>This account also contains older experiments, landing-page tests and learning repositories. They are kept as archive and are not part of my current portfolio.</sub>
+<sub>This account also contains older experiments, landing-page tests and learning repositories. They are part of my development history, not my current production standard.</sub>
