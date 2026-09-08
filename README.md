@@ -4,24 +4,24 @@
 
 ### Self-Taught Developer · Automation · AI Systems · Digital Products
 
-Building, learning and shipping since 2021.
+Building software, systems and digital businesses since 2021.
 
 </div>
 
 ## About
 
-I'm a **self-taught developer and freelancer** with a strong interest in technology, software and digital systems. I started learning development in 2021 and have kept building ever since — for clients, agencies, my own projects, and sometimes simply because I want to see if an idea can work.
+I'm a **self-taught developer and freelancer** focused on building useful things — for clients, agencies, my own businesses, and sometimes simply to explore an idea.
 
-I use **AI as an accelerator**, not as a replacement for understanding. Most of my work comes from combining documentation, experimentation, testing and software I build myself to solve real problems and shorten repetitive processes.
+My main operation today is a **portfolio of YouTube channels** supported by automation, internal tools and content systems I've built and refined over time. Alongside that, I develop websites, digital products and systems for clients and agency projects.
 
-Today I work independently with clients and across several agency projects. My main operating focus, however, is a **portfolio of YouTube channels** that I manage through automation systems, internal tools and content workflows I have built and refined over time.
+I use **AI as an accelerator**, combined with documentation, experimentation and constant iteration. I care more about understanding the problem and making something work in the real world than following a fixed path into tech.
 
 ## What I build
 
 - Production websites and conversion-focused digital experiences
 - Internal tools and workflow automation
 - AI-assisted research and content systems
-- Software for operating and scaling digital projects
+- Software that reduces repetitive work and improves digital operations
 
 ## Selected work
 
@@ -30,15 +30,13 @@ Today I work independently with clients and across several agency projects. My m
 - **PAUSA Coffee** — digital presence and quotation flow for event services — [pausaeventos.site](https://pausaeventos.site)
 - **Andrés Racing Performance** — motorsport performance website — [repository](https://github.com/FabriuDev/andres-racing-performance)
 
-Some projects here are **paid client work**. Others are independent products, prototypes or things I built simply because I wanted to explore an idea.
+## GOD Agency
 
-## Venture
-
-**GOD Agency** — web development, automation, AI content systems and digital infrastructure.  
+Web development, automation, AI content systems and digital infrastructure.  
 [godagency.ar](https://godagency.ar)
 
 ## Stack
 
 `TypeScript` · `JavaScript` · `React` · `Next.js` · `Node.js` · `REST APIs` · `Git` · `Vercel`
 
-<sub>This account also contains older experiments, landing-page tests and learning repositories. They are part of my development history, not my current production standard.</sub>
+<sub>Some repositories in this account are client work, others are personal products, prototypes, experiments or older learning projects.</sub>
