@@ -2,39 +2,42 @@
 
 # Fabrizio Rodriguez
 
-### Self-Taught Developer · Automation · AI Systems · Digital Products
+### Self-Taught Developer · Automation · AI Systems
 
-Building software, systems and digital products since 2021.
+Building useful software and digital systems since 2021.
 
 </div>
 
 ## About
 
-I'm a **self-taught developer and freelancer** focused on building useful things — for clients, agencies, projects I help grow, and sometimes simply because I want to explore an idea.
+I'm a **self-taught developer and freelancer** focused on building practical software, websites and systems for real projects.
 
-My main operation today is a **portfolio of YouTube channels** supported by automation, internal tools and content systems I've built and refined over time. Alongside that, I work independently with clients and as a **partner at GOD Agency and Zenbriq**, contributing across web development, automation, AI systems and digital products.
+Since 2021, I've learned primarily through **documentation, experimentation and shipping real work**. I use AI as an accelerator alongside hands-on development — to research faster, automate repetitive work and improve how I build and operate digital products.
 
-I use **AI as an accelerator**, combined with documentation, experimentation and constant iteration. I care more about understanding the problem and making something work in the real world than following a fixed path into tech.
+Today, my main digital operation is a **portfolio of YouTube channels** supported by internal tools, automation and content systems I've built and refined over time. I also work independently with clients and as a **partner at GOD Agency and Zenbriq**.
 
-## What I build
+## Selected Work
 
-- Production websites and conversion-focused digital experiences
+| Project | Scope | Live |
+| --- | --- | --- |
+| **FTravel** | Travel platform and conversion-focused digital experience | [ftravel.uy](https://ftravel.uy) |
+| **Renovra** | Website and lead-generation experience for renovation services | [renovra.site](https://renovra.site) |
+| **PAUSA Coffee** | Digital presence and quotation flow for event services | [pausaeventos.site](https://pausaeventos.site) |
+| **Andrés Racing Performance** | Motorsport performance website | [Repository](https://github.com/FabriuDev/andres-racing-performance) |
+
+## Systems I Build
+
+- Web products and conversion-focused experiences
 - Internal tools and workflow automation
 - AI-assisted research and content systems
-- Software that reduces repetitive work and improves digital operations
+- Software that supports multi-channel YouTube operations
+- Systems that reduce repetitive work and improve digital processes
 
-## Selected work
-
-- **FTravel** — travel platform and conversion-focused website — [ftravel.uy](https://ftravel.uy)
-- **Renovra** — website for renovation and construction services — [renovra.site](https://renovra.site)
-- **PAUSA Coffee** — digital presence and quotation flow for event services — [pausaeventos.site](https://pausaeventos.site)
-- **Andrés Racing Performance** — motorsport performance website — [repository](https://github.com/FabriuDev/andres-racing-performance)
-
-## Agency partnerships
+## Partnerships
 
 **GOD Agency** · **Zenbriq**
 
-I work as a **partner across both**, helping build and operate web products, automation, AI systems and digital infrastructure for client and internal projects.
+Partner across both ventures, contributing to **web development, automation, AI systems, content infrastructure and digital products**.
 
 [godagency.ar](https://godagency.ar) · [zenbriq.com](https://zenbriq.com)
 
@@ -42,4 +45,4 @@ I work as a **partner across both**, helping build and operate web products, aut
 
 `TypeScript` · `JavaScript` · `React` · `Next.js` · `Node.js` · `REST APIs` · `Git` · `Vercel`
 
-<sub>Some repositories in this account are client work; others are personal products, prototypes, experiments or older learning projects.</sub>
+<sub>Client work and internal systems are often private. Public repositories are selected intentionally.</sub>
